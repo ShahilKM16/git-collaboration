@@ -1,0 +1,5 @@
+I am Yuxian Gu and I am graduating this semester.
+
+I am hoping to learn more about APIs as I am interested in software / mobile apps development. Since I took CS401 first, I hope I can implement the project I worked on (not the same idea) with more features, better UI and user experience.
+
+My idea for final project will be a community buy and sell bulletin board.
