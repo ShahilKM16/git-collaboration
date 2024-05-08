@@ -1,0 +1,4 @@
+My name is Koshiro Sugioka. I am from Japan.
+I like playing baseball. 
+
+My idea for the final project is a DIY Project Hub web-app that user shares their DIY works. 
