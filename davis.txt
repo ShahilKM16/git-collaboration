@@ -1,0 +1,2 @@
+Hi I am Davis Bluth, and here is my little two sentence introduction, I am not entirely sure what this intro is supposed to be for, but this is it for sure. Anywyas just wanted to say that I love you all and that I wish you all the best, hope your days are all beautiful and bright.
+I believe our final is supposed to be that of a similar thing to that of Twitter, so my ideas are mainly built around that, I am actually quite excited to be able to figure out server and client side architecture through a website!
