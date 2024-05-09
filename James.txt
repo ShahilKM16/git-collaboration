@@ -1,0 +1,5 @@
+My name is James Chen, and I am majoring in CS at BYUH.
+
+I want to learn more about important tools for developing the web application, including the web API.
+
+Final Project: My idea for the final project is to create an online stock information notebook for users to track their stock.
