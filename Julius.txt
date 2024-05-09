@@ -1,0 +1,8 @@
+I am Julius Such. I am graduating this Fall semester. I want to be better at Web development.
+I only about rails but haven't really tried the other ones. I am interested in doing more than 
+is expected in class.
+
+I plan on making a mobile app that will further utilize BYUH facilities. In my mobile app, I am thinking 
+about letting user find players with certain games on campus. A user might flag online that he is 
+looking for somebody to play pingpong. The students who have the same app, will get a notification 
+and they can accept that invitation.
