@@ -1,1 +1,5 @@
 I’m Rin and taking 490R this semester.
+
+I want to improve my skill as CS major student through this project and understand how to use GitHub.
+
+I want to create a website where surfers can share information about wave conditions.
