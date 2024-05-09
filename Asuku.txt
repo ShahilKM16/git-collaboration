@@ -1,0 +1,6 @@
+I am Asuku Takahashi majoring CS.
+
+I want to learn how to create basic web appication and how to use docker.
+
+My final project will be a web application to stock someone's or famous people's quote and share those by sending email automatically,
+or see those on the web by using search bar. Also user can upload their own quote.
