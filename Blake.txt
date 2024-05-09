@@ -1,0 +1,5 @@
+Hi! I'm Blake Peterson, I'm from North Carolina and I like to go hiking, swimming and surfing!
+I'm looking forward to learning more from this class because I'm really interested in javascript and web design using javascript. 
+
+For my final project, I think I want to make a text-based multiplayer game. It'll have fairly simple mechanics, but I think it'd be cool
+to have turn based combat or something like that in a multiplayer game.
